@@ -1,5 +1,3 @@
-// Inspired by Ankush Singla @codingNinjas Code.
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
